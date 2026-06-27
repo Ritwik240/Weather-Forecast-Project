@@ -1,72 +1,72 @@
 [
     {
-        "Date":"2026-06-26",
+        "Date":"2026-06-27",
         "Temperature_C":24.7728762021,
         "Humidity_%":55.4594425009,
         "UV_Index":1.324131919,
         "WindSpeed_m\/s":6.1812923234,
         "Rainfall_mm":2.0207159494,
-        "Rain_Probability":18.5,
+        "Rain_Probability":18.4,
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-06-27",
+        "Date":"2026-06-28",
         "Temperature_C":24.7790805898,
         "Humidity_%":55.4357010407,
         "UV_Index":1.325560661,
         "WindSpeed_m\/s":6.1891281355,
         "Rainfall_mm":2.0041522678,
-        "Rain_Probability":18.5,
+        "Rain_Probability":18.4,
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-06-28",
+        "Date":"2026-06-29",
         "Temperature_C":24.7790149634,
         "Humidity_%":55.4345916846,
         "UV_Index":1.3249037028,
         "WindSpeed_m\/s":6.1913101499,
         "Rainfall_mm":2.0247780727,
-        "Rain_Probability":18.5,
+        "Rain_Probability":18.4,
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-06-29",
+        "Date":"2026-06-30",
         "Temperature_C":24.7817732575,
         "Humidity_%":55.431137442,
         "UV_Index":1.3256565561,
         "WindSpeed_m\/s":6.1996490127,
         "Rainfall_mm":2.0136984556,
-        "Rain_Probability":18.5,
+        "Rain_Probability":18.4,
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-06-30",
+        "Date":"2026-07-01",
         "Temperature_C":24.7799055113,
         "Humidity_%":55.4364973712,
         "UV_Index":1.3255817211,
         "WindSpeed_m\/s":6.1991983502,
         "Rainfall_mm":2.029757381,
-        "Rain_Probability":18.5,
+        "Rain_Probability":18.4,
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-07-01",
+        "Date":"2026-07-02",
         "Temperature_C":24.7816620945,
         "Humidity_%":55.4202084473,
         "UV_Index":1.3265856518,
         "WindSpeed_m\/s":6.1981352533,
         "Rainfall_mm":2.0134921229,
-        "Rain_Probability":18.5,
+        "Rain_Probability":18.4,
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-07-02",
+        "Date":"2026-07-03",
         "Temperature_C":24.7858875885,
         "Humidity_%":55.3954732879,
         "UV_Index":1.3271866879,
         "WindSpeed_m\/s":6.1988969776,
         "Rainfall_mm":2.0188100535,
-        "Rain_Probability":18.5,
+        "Rain_Probability":18.4,
         "Rain_Alert":"No Rain \u2600\ufe0f"
     }
 ]
