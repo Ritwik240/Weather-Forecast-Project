@@ -33562,10 +33562,10 @@
     {
         "Date":"2026-06-27T00:00:00.000",
         "UV_Index":1.25,
-        "Temperature_C":35.5,
-        "Humidity_%":46.0,
-        "Rainfall_mm":1.0,
-        "WindSpeed_m\/s":5.5
+        "Temperature_C":37.025,
+        "Humidity_%":40.305,
+        "Rainfall_mm":1.43,
+        "WindSpeed_m\/s":3.74
     },
     {
         "Date":"2026-06-28T00:00:00.000",
@@ -33582,5 +33582,13 @@
         "Humidity_%":40.0,
         "Rainfall_mm":1.4,
         "WindSpeed_m\/s":8.8
+    },
+    {
+        "Date":"2026-06-30T00:00:00.000",
+        "UV_Index":1.25,
+        "Temperature_C":34.2,
+        "Humidity_%":54.0,
+        "Rainfall_mm":4.4,
+        "WindSpeed_m\/s":10.3
     }
 ]
