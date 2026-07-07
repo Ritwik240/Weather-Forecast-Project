@@ -1,6 +1,6 @@
 [
     {
-        "Date":"2026-07-06",
+        "Date":"2026-07-07",
         "Temperature_C":24.7617839338,
         "Humidity_%":55.4212437512,
         "UV_Index":1.3245696971,
@@ -10,7 +10,7 @@
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-07-07",
+        "Date":"2026-07-08",
         "Temperature_C":24.7679542132,
         "Humidity_%":55.4120844644,
         "UV_Index":1.3256427987,
@@ -20,7 +20,7 @@
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-07-08",
+        "Date":"2026-07-09",
         "Temperature_C":24.7713590568,
         "Humidity_%":55.4014198209,
         "UV_Index":1.325312782,
@@ -30,7 +30,7 @@
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-07-09",
+        "Date":"2026-07-10",
         "Temperature_C":24.772871564,
         "Humidity_%":55.4022684252,
         "UV_Index":1.3257422348,
@@ -40,7 +40,7 @@
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-07-10",
+        "Date":"2026-07-11",
         "Temperature_C":24.772727716,
         "Humidity_%":55.3990938743,
         "UV_Index":1.3264454366,
@@ -50,7 +50,7 @@
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-07-11",
+        "Date":"2026-07-12",
         "Temperature_C":24.7777552436,
         "Humidity_%":55.3676281694,
         "UV_Index":1.3274877407,
@@ -60,7 +60,7 @@
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-07-12",
+        "Date":"2026-07-13",
         "Temperature_C":24.7820541601,
         "Humidity_%":55.3680490882,
         "UV_Index":1.3273164648,
