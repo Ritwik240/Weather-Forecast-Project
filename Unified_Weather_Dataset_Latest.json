@@ -34154,10 +34154,10 @@
     {
         "Date":"2026-09-09T00:00:00.000",
         "UV_Index":2.11,
-        "Temperature_C":29.8,
-        "Humidity_%":68.0,
-        "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":8.5
+        "Temperature_C":29.5,
+        "Humidity_%":70.285,
+        "Rainfall_mm":0.08,
+        "WindSpeed_m\/s":5.59
     },
     {
         "Date":"2026-09-10T00:00:00.000",
@@ -34174,5 +34174,13 @@
         "Humidity_%":82.0,
         "Rainfall_mm":8.7,
         "WindSpeed_m\/s":6.5
+    },
+    {
+        "Date":"2026-09-12T00:00:00.000",
+        "UV_Index":2.11,
+        "Temperature_C":28.7,
+        "Humidity_%":83.0,
+        "Rainfall_mm":7.6,
+        "WindSpeed_m\/s":6.6
     }
 ]
