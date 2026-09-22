@@ -34246,5 +34246,13 @@
         "Humidity_%":65.0,
         "Rainfall_mm":1.5,
         "WindSpeed_m\/s":2.6
+    },
+    {
+        "Date":"2026-09-21T00:00:00.000",
+        "UV_Index":1.89,
+        "Temperature_C":29.9,
+        "Humidity_%":61.0,
+        "Rainfall_mm":0.1,
+        "WindSpeed_m\/s":3.5
     }
 ]
