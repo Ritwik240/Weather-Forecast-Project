@@ -34266,26 +34266,26 @@
     {
         "Date":"2026-09-23T00:00:00.000",
         "UV_Index":1.89,
-        "Temperature_C":31.5,
+        "Temperature_C":29.675,
         "Humidity_%":67.01,
-        "Rainfall_mm":0.0,
+        "Rainfall_mm":0.03,
         "WindSpeed_m\/s":3.025
     },
     {
         "Date":"2026-09-24T00:00:00.000",
         "UV_Index":1.89,
-        "Temperature_C":30.0,
+        "Temperature_C":28.725,
         "Humidity_%":71.315,
-        "Rainfall_mm":0.0,
+        "Rainfall_mm":0.345,
         "WindSpeed_m\/s":4.755
     },
     {
         "Date":"2026-09-25T00:00:00.000",
         "UV_Index":1.89,
         "Temperature_C":27.8,
-        "Humidity_%":70.0,
+        "Humidity_%":75.305,
         "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":8.7
+        "WindSpeed_m\/s":5.345
     },
     {
         "Date":"2026-09-26T00:00:00.000",
@@ -34294,5 +34294,13 @@
         "Humidity_%":75.0,
         "Rainfall_mm":4.6,
         "WindSpeed_m\/s":7.3
+    },
+    {
+        "Date":"2026-09-27T00:00:00.000",
+        "UV_Index":1.89,
+        "Temperature_C":24.8,
+        "Humidity_%":79.0,
+        "Rainfall_mm":1.1,
+        "WindSpeed_m\/s":6.1
     }
 ]
