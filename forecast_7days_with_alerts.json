@@ -1,6 +1,6 @@
 [
     {
-        "Date":"2026-09-29",
+        "Date":"2026-09-30",
         "Temperature_C":24.860961428,
         "Humidity_%":54.8676917997,
         "UV_Index":1.3320814109,
@@ -10,7 +10,7 @@
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-09-30",
+        "Date":"2026-10-01",
         "Temperature_C":24.8742033503,
         "Humidity_%":54.8508169283,
         "UV_Index":1.3340719773,
@@ -20,7 +20,7 @@
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-10-01",
+        "Date":"2026-10-02",
         "Temperature_C":24.8808954241,
         "Humidity_%":54.8548169793,
         "UV_Index":1.3334112539,
@@ -30,7 +30,7 @@
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-10-02",
+        "Date":"2026-10-03",
         "Temperature_C":24.8870896346,
         "Humidity_%":54.8606299984,
         "UV_Index":1.333994939,
@@ -40,7 +40,7 @@
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-10-03",
+        "Date":"2026-10-04",
         "Temperature_C":24.8902423325,
         "Humidity_%":54.8551414637,
         "UV_Index":1.3345300912,
@@ -50,7 +50,7 @@
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-10-04",
+        "Date":"2026-10-05",
         "Temperature_C":24.899347989,
         "Humidity_%":54.8226709316,
         "UV_Index":1.3351306017,
@@ -60,7 +60,7 @@
         "Rain_Alert":"No Rain \u2600\ufe0f"
     },
     {
-        "Date":"2026-10-05",
+        "Date":"2026-10-06",
         "Temperature_C":24.9058749646,
         "Humidity_%":54.812938668,
         "UV_Index":1.3353909797,
