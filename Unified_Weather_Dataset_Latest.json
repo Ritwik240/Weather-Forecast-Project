@@ -34362,10 +34362,10 @@
     {
         "Date":"2026-10-05T00:00:00.000",
         "UV_Index":1.89,
-        "Temperature_C":30.2,
-        "Humidity_%":55.0,
+        "Temperature_C":28.645,
+        "Humidity_%":59.99,
         "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":7.6
+        "WindSpeed_m\/s":4.97
     },
     {
         "Date":"2026-10-06T00:00:00.000",
@@ -34374,5 +34374,13 @@
         "Humidity_%":57.0,
         "Rainfall_mm":0.0,
         "WindSpeed_m\/s":7.1
+    },
+    {
+        "Date":"2026-10-07T00:00:00.000",
+        "UV_Index":1.89,
+        "Temperature_C":29.4,
+        "Humidity_%":61.0,
+        "Rainfall_mm":0.4,
+        "WindSpeed_m\/s":6.7
     }
 ]
