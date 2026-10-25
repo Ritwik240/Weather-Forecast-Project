@@ -34490,10 +34490,10 @@
     {
         "Date":"2026-10-21T00:00:00.000",
         "UV_Index":1.97,
-        "Temperature_C":25.3,
-        "Humidity_%":65.0,
+        "Temperature_C":24.84,
+        "Humidity_%":60.325,
         "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":3.4
+        "WindSpeed_m\/s":2.605
     },
     {
         "Date":"2026-10-22T00:00:00.000",
@@ -34510,5 +34510,13 @@
         "Humidity_%":65.0,
         "Rainfall_mm":0.4,
         "WindSpeed_m\/s":4.4
+    },
+    {
+        "Date":"2026-10-24T00:00:00.000",
+        "UV_Index":1.97,
+        "Temperature_C":25.4,
+        "Humidity_%":60.0,
+        "Rainfall_mm":0.3,
+        "WindSpeed_m\/s":4.0
     }
 ]
