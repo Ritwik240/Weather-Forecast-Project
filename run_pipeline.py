@@ -87,7 +87,7 @@ from scipy.stats import zscore
 # 1. CONFIGURATION
 # =======================================================
 raw_dataset_url = "https://raw.githubusercontent.com/Ritwik240/Weather-Dataset/refs/heads/main/Unified_Weather_Dataset_Latest.json"
-OFFICIAL_DATASET_HASH = "b8a18744110841d010bb2571317d3d24334649ba1d3eeaa705aaf6fae5d389ac"
+OFFICIAL_DATASET_HASH = "21beb4b877b16ca74ce282b9520e8db668ff927b42b8e8facbb19ec781b88e44"
 
 # =======================================================
 # 2. HASH CHECK FUNCTION
