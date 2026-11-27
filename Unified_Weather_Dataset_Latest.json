@@ -34763,9 +34763,9 @@
         "Date":"2026-11-24T00:00:00.000",
         "UV_Index":1.59,
         "Temperature_C":18.4,
-        "Humidity_%":63.0,
+        "Humidity_%":47.785,
         "Rainfall_mm":0.0,
-        "WindSpeed_m\/s":6.3
+        "WindSpeed_m\/s":4.77
     },
     {
         "Date":"2026-11-25T00:00:00.000",
@@ -34774,5 +34774,13 @@
         "Humidity_%":63.0,
         "Rainfall_mm":0.0,
         "WindSpeed_m\/s":3.7
+    },
+    {
+        "Date":"2026-11-26T00:00:00.000",
+        "UV_Index":1.59,
+        "Temperature_C":18.3,
+        "Humidity_%":59.0,
+        "Rainfall_mm":0.0,
+        "WindSpeed_m\/s":4.3
     }
 ]
